@@ -1,0 +1,6 @@
+rasterizer*
+BearEngine
+EngineV2
+*.o
+Renderer
+
