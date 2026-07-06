@@ -4,9 +4,12 @@ The really is the sole goal of this version, watch the freeBootCamp 30hrs long c
 course and hammer at it. Since I'm a little dumb i also thought "Who needs OpenGL or Vulkan, I'll
 write my own GPU api", yeah sure buddy... So I ended up just using pure SDL2.
 
-And as to why switch to CPP, well I want to work on HFT or Cybersecurty, so cpp is should become
-my bread an butter. I also quickly realized the limitations of Java (and that I also find the 
+And as to why switch to CPP, well I want to work on HFT or Cybersecurty, so cpp should become
+my bread and butter. I also quickly realized the limitations of Java (and that I also find the 
 language to not quite be to my taste) for anything that needs to be efficient and fast.
 
 As for the feature... Well not much really. It's an almost one to one translation of my java engine
 rendering pipeline, but with the addition of Gouraud shading. That's it really.
+
+Oh and also, I did not really understand why to use header files yet, so the file structure is honestly
+disgusting haha. You live and learn huh.
