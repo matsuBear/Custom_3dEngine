@@ -27,6 +27,7 @@ Here is the current checklist of stuff that was done(X) and that needs to be don
 ---O No imGui in sight still.
 ---O I don't know why, but i can't separate the headers and the cpp files inside two folders
    wihout braking the code T-T, though i think it might be a Codium quirk not necessarily a
-   coding issue. The file tree is an absolute mess...
+   coding issue, so since I'm learning neovim this might not be an issue any more.
+   The file tree is an absolute mess...
 
 Still have a long ways to go.
